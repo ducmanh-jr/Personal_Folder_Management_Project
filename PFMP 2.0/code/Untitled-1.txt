@@ -1,0 +1,4 @@
+pyinstaller --onefile --add-data "templates;templates" main.py
+_ chưa tự động mở được file (yêu cầu tải về) tôi muốn mở file tự động hỏi máy tính muốn mở băng gì ( ví dụ code thì hiện vscode, pdf thì hiện các wps, chrome)
+_ chưa có xóa được file trong thư mục khi xóa trong app và icon thùng rác quá xấu
+_ không sửa được tên cột, không đặt được tên thẻ 

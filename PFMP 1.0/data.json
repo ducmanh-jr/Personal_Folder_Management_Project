@@ -1,0 +1,27 @@
+{
+  "columns": [
+    {
+      "cards": [
+        {
+          "title": "main.ipynb",
+          "type": "file",
+          "link": "/download/main.ipynb",
+          "desc": "Tài liệu tải lên",
+          "updatedAt": "30/12/2025"
+        }
+      ],
+      "id": "col1",
+      "name": "TÀI LIỆU"
+    },
+    {
+      "cards": [],
+      "id": "col2",
+      "name": "SOURCE"
+    },
+    {
+      "cards": [],
+      "id": "col3",
+      "name": "DỰ ÁN"
+    }
+  ]
+}
