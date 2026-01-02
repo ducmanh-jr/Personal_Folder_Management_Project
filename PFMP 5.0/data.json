@@ -1,0 +1,37 @@
+{
+  "columns": [
+    {
+      "cards": [
+        {
+          "title": "main",
+          "type": "file",
+          "link": "/download/main.py",
+          "filename": "main.py",
+          "desc": "Tài liệu tải lên",
+          "updatedAt": "2/1/2026"
+        }
+      ],
+      "id": "col1",
+      "name": "TÀI LIỆU"
+    },
+    {
+      "cards": [
+        {
+          "title": "bao_cao_XLA_Nhom_2.pdf",
+          "type": "file",
+          "link": "/download/bao_cao_XLA_Nhom_2.pdf",
+          "filename": "bao_cao_XLA_Nhom_2.pdf",
+          "desc": "Tài liệu tải lên",
+          "updatedAt": "2/1/2026"
+        }
+      ],
+      "id": "col2",
+      "name": "SOURCE"
+    },
+    {
+      "cards": [],
+      "id": "col3",
+      "name": "DỰ ÁN"
+    }
+  ]
+}
