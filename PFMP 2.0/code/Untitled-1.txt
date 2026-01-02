@@ -1,7 +1,0 @@
-## Các vấn đề cần cải thiện
-
-- **Mở file**: Hiện tại hệ thống chỉ hỗ trợ tải file về, chưa thể hiển thị hộp thoại để người dùng lựa chọn ứng dụng mở file phù hợp (ví dụ: VS Code cho file code, WPS/Chrome cho file PDF).
-
-- **Xóa file & giao diện**: Chưa đồng bộ việc xóa file trong ứng dụng với thư mục lưu trữ thực tế. Biểu tượng thùng rác chưa đảm bảo tính thẩm mỹ, cần cải thiện giao diện.
-
-- **Chỉnh sửa dữ liệu hiển thị**: Chưa hỗ trợ đổi tên cột và chưa cho phép tạo hoặc chỉnh sửa tên thẻ (tag).
